@@ -38,7 +38,7 @@ namespace bt1
         {
             if (isFull())
             {
-                Console.WriteLine("Stack is full");
+                Console.WriteLine("Stack đã đầy");
                 return;
             }
 
